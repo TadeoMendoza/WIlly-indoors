@@ -1,9 +1,9 @@
-html.dark-mode{
-filter: invert(100%);
+#boton {
+    color:  #ec87bf;
+    border-color: #ec87bf;
 }
-html.dark-mode img{
-    filter: invert(100%);
-}
-html.dark-mode button{
-    filter: invert(100%);
+#boton:hover {
+    background-color: #ec87bf;
+    color:  #FFFF;
+    border-color: #ec87bf;
 }
