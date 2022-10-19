@@ -1,9 +1,10 @@
 #boton {
-    color:  #ec87bf;
+    color: #ec87bf;
     border-color: #ec87bf;
 }
+
 #boton:hover {
     background-color: #ec87bf;
-    color:  #FFFF;
+    color: #FFFF;
     border-color: #ec87bf;
 }
