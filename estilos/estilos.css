@@ -8,3 +8,7 @@
     color: #FFFF;
     border-color: #ec87bf;
 }
+*::selection{
+    background: #519c5e;
+    color: white;
+}
